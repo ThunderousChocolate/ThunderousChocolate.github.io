@@ -1,6 +1,5 @@
 
-
-    body {
+ body {
         background-color: #00bfff;
 }
 .navbar {
@@ -36,4 +35,12 @@ img{
     padding: 14px 16px;
     text-decoration: none;
 }
-   
+   .btn {
+    border: none; 
+    color: white; 
+    padding: 14px 28px; 
+    cursor: pointer; 
+}
+
+.click {background-color: #4CAF50;}
+.click:hover {background-color: #46a049;}
